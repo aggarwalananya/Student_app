@@ -1,2 +1,17 @@
-# Student_app
-A full-stack mobile application developed using Flutter for the frontend, PHP for the backend, and MySQL as the database. The application allows users to register students, store their information securely, and retrieve records through a user-friendly interface. This project helped me understand frontend-backend communication, REST API integration, database operations, and local server setup using XAMPP. It was built as a learning project to explore the fundamentals of mobile application development.
+# student_registration_app
+
+A new Flutter project.
+
+## Getting Started
+
+This project is a starting point for a Flutter application.
+
+A few resources to get you started if this is your first Flutter project:
+
+- [Learn Flutter](https://docs.flutter.dev/get-started/learn-flutter)
+- [Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
+- [Flutter learning resources](https://docs.flutter.dev/reference/learning-resources)
+
+For help getting started with Flutter development, view the
+[online documentation](https://docs.flutter.dev/), which offers tutorials,
+samples, guidance on mobile development, and a full API reference.
